@@ -1,0 +1,6 @@
+{
+  "name": "Power BI Consulting",
+  "description": "Professional Power BI consulting website showcasing interactive dashboards and custom business intelligence solutions with an inquiry form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
